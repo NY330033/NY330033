@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**NY330033/NY330033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## (^･ω･^=)~
 <div align="center">
