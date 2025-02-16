@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=8&height=180&section=header&text=✦
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=8&height=180&fontAlignY=37&section=header&text=✦
 )
 
-<br />
 
 ## Hi there 👋
 
