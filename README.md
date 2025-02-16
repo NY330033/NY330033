@@ -1,6 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=8&height=180&section=header&text=✦
+)
+
+<br />
+
 ## Hi there 👋
 
-
+<br />
+<br />
+<br />
 
 <div align="center">
 
@@ -8,5 +15,15 @@
 
 </div>
 
+<br />
+<br />
 
 ## (^･ω･^=)~
+
+<!-- <div align="center">
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ny3300)](https://github.com/ny3300/velog-readme-stats)
+ 
+</div>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ny3300)](https://velog.io/@ny3300) -->
